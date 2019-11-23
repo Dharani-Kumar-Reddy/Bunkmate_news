@@ -13,9 +13,10 @@
             style="display: block;
                     margin-left: auto;
                     margin-right: auto;
-                    width: 80%;">
+                    transform: rotate(-90deg);
+                    width: 90%;">
     <br>
-    <h3 class="para"  style="width: 80%;margin: auto;text-align: justify;">
+    <h3 class="para"  style="width: 90%;margin: auto;text-align: justify;">
     Iron Man is a 2008 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Paramount Pictures,[N 1] it is the first film in the Marvel Cinematic Universe. The film was directed by Jon Favreau from a screenplay by Mark Fergus and Hawk Ostby, and Art Marcum and Matt Holloway, and stars Robert Downey Jr. as Tony Stark / Iron Man, alongside Terrence Howard, Jeff Bridges, Shaun Toub, and Gwyneth Paltrow. In Iron Man, Tony Stark is an industrialist and master engineer who builds a mechanized suit of armor and becomes the superhero Iron Man.</h3>
 </body>
 </html>
