@@ -5,6 +5,19 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>News</title>
+    a:link, a:visited {
+  background-color: #ffffff;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: yellow;
+}
+
    </head>
 <body>
     <img class="image1" src="image.png" alt=""
@@ -24,7 +37,7 @@
     text-align: center;
     background-color: #000000;
     color: #ffffff">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club?<br>Just include the content and image of your article and mail it to admin with date of publishing as subject<BR><BR>
-    <a href="mailto:dheerureddy1999@gmail.com" font-size: 100px color: #ffffff>SEND YOUR ARTICLE!!<br></a> </p>
+    <a href="mailto:dheerureddy1999@gmail.com" font-size: 100px color: #ffffff target="_blank">SEND YOUR ARTICLE!!<br></a> </p>
     
 </body>
 </html>
