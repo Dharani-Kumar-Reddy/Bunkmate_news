@@ -18,7 +18,11 @@
                     width: 90%;">
     <br>
     <h3 class="para"  style="width: 90%;margin: auto;text-align: justify;">
-    Bunkmate will launched by the end of this year,mean while enjoy using the application in Debug mode.Any kind of feedback and suggestions are always welcome,feel free to give your feedback to your collegemate</h3>
-    <p style="width:90%;margin: auto;text-align: justify;background-color: coral;color: blue">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club<br>Just include the content and image of your article and mail it to admin with date as subject </p>
+    Bunkmate will launched by the end of this year,mean while enjoy using the application in Debug mode.Any kind of feedback and suggestions are always welcome,feel free to give your feedback to your collegemate<br><br></h3>
+    <p style="width:90%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club<br>Just include the content and image of your article and mail it to admin with date as subject </p>
 </body>
 </html>
