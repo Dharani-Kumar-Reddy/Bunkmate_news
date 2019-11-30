@@ -1,0 +1,44 @@
+p {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+.image1{
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+.para{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.p1{
+    margin-top:230px ;
+    width:100%;
+    text-align: center;
+    background-color: #001f3f;
+    color: #ffffff
+}
+
+@media(max-width: 600px){
+    .image1{
+        height: 200px;
+        margin: auto;
+    }
+    
+    .para{
+        width: 90%;
+        margin: auto;
+        text-align: center;
+
+    }
+    
+    .p1{
+        padding-top:30px ;
+        width:100%;
+        margin: auto;
+        text-align: center;
+        color: #ffffff
+    } 
+}
