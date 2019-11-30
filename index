@@ -23,7 +23,8 @@
     margin: auto;
     text-align: center;
     background-color: #000000;
-    color: #ffffff">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club?<br>Just include the content and image of your article and mail it to admin with date of publishing as subject<BR><BR><a href="mailto:dheerureddy1999@gmail.com" font-size: 100px>SEND YOUR ARTICLE!!</a> </p>
+    color: #ffffff">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club?<br>Just include the content and image of your article and mail it to admin with date of publishing as subject<BR><BR>
+    <a href="mailto:dheerureddy1999@gmail.com" font-size: 100px color: #ffffff>SEND YOUR ARTICLE!!<br></a> </p>
     
 </body>
 </html>
