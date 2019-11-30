@@ -31,7 +31,8 @@ p {
     .para{
         width: 90%;
         margin: auto;
-        text-align: center;
+        text-align: justify;
+        text-justify: inter-word;
 
     }
     
