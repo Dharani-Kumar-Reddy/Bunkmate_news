@@ -22,7 +22,7 @@
     <p style="width:90%;
     margin: auto;
     text-align: center;
-    background-color: black;
-    color: white">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club<br>Just include the content and image of your article and mail it to admin with date as subject </p>
+    background-color: #000000;
+    color: #ffffff">Want to wish someone?<br>OR<br>Publish an article?<br>OR<br>Post an update regarding club<br>Just include the content and image of your article and mail it to admin with date as subject </p>
 </body>
 </html>
