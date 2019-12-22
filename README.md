@@ -1,2 +1,2 @@
 # Bunkmate_news
-Stores all the news articles shown in Bunkmate app
+News articles shown in Bunkmate app
