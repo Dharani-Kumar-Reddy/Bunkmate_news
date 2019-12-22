@@ -11,7 +11,7 @@ p {
     width: 70%;
     margin: auto;
     text-align: justify;
-    text-justify: inter-word;
+    text-justify: auto;
 }
 
 .p1{
@@ -32,7 +32,7 @@ p {
         width: 90%;
         margin: auto;
         text-align: justify;
-        text-justify: inter-word;
+        text-justify: auto;
 
     }
     
