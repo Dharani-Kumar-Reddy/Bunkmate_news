@@ -1,2 +1,2 @@
 # Bunkmate_news
-News articles shown in Bunkmate app
+News article shown in Bunkmate app
