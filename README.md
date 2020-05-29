@@ -6,4 +6,6 @@ If you want to publish an article in Bunkmate App.You can mail the content of ar
 
 [Click here to send your Article](mailto:dheerureddy1999@gmail.com)
 
+Todays News article - [Click here](https://htmlpreview.github.io/?https://github.com/Dharani-Kumar-Reddy/Bunkmate_news/blob/master/index.html)
+
 To download the App [Click here](https://play.google.com/store/apps/details?id=com.bunkmate)
